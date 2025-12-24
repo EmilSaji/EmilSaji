@@ -134,39 +134,7 @@ Anything tech-related!
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilSaji&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmilSaji&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmilSaji&theme=tokyonight" alt="Profile Details" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=EmilSaji&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## ⏱️ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 30 mins  ██████████████░░░░░░░  45.2%
-JavaScript   6 hrs 15 mins   ███████░░░░░░░░░░░░░░  22.6%
-Rust         4 hrs 20 mins   █████░░░░░░░░░░░░░░░░  15.7%
-Java         2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░   9.9%
-JSON         1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░   4.2%
-Other        38 mins         ░░░░░░░░░░░░░░░░░░░░░   2.4%
-```
-<!--END_SECTION:waka-->
-
-> 💡 *To enable real-time stats, set up [WakaTime](https://wakatime.com/) and [waka-readme](https://github.com/athul/waka-readme)*
 
 ---
 
