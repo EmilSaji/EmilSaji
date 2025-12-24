@@ -53,7 +53,7 @@
 
 ```typescript
 const emil: Developer = {
-    pronouns: "he" | "him",
+    pronouns: "he/him",
     title: "Full Stack Developer & System Architect",
     location: "Kerala, India 🇮🇳",
     education: {
@@ -61,33 +61,39 @@ const emil: Developer = {
         institution: "Providence College of Engineering",
         status: "Graduated with passion for building things"
     },
-    experience: "2+ years crafting web experiences & backend systems",
+    experience: "2.5+ years crafting web experiences & backend systems",
     currentlyBuilding: "Scalable solutions that make a difference",
-    askMeAbout: ["Web Dev", "Backend", "System Design", "Web3", "DevOps"],
-    techCommunities: {
-        contributor: ["Open Source Projects", "Stack Overflow"],
-        learning: ["System Design", "Cloud Architecture", "AI/ML"]
-    },
-    challenge: "I'm aiming to contribute to 100 open source projects in 2025",
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+    askMeAbout: ["Web Dev", "Backend", "System Design"],
 };
 ```
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ### 🎯 What I'm Up To
 
-- 🔭 Working on **scalable microservices architecture**
-- 🌱 Learning **Kubernetes & Cloud Native Development**
-- 👯 Looking to collaborate on **Web3 projects**
-- 🤔 Exploring **AI integration in web apps**
-- 💬 Ask me about **anything tech-related**
-- ⚡ Fun fact: Best code is the code you don't write!
+</div>
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+🔭 **Currently Working On**
+
+Scalable microservices architecture
 
 </td>
-<td width="100%">
+<td width="33%" align="center">
+
+🤔 **Exploring**
+
+AI integration in web apps
+
+</td>
+<td width="33%" align="center">
+
+💬 **Ask Me About**
+
+Anything tech-related!
 
 </td>
 </tr>
@@ -100,36 +106,22 @@ const emil: Developer = {
 <div align="center">
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass&perline=9" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&perline=8" />
 
 ### ⚙️ Backend Development
+
 <img src="https://skillicons.dev/icons?i=nodejs,java,spring,rust,express,graphql,solidity&perline=7" />
 
 ### 🗄️ Databases & Cloud
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,aws,gcp,vercel,supabase&perline=9" />
 
 ### 🛠️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,nginx,vscode,postman&perline=9" />
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,postman,figma,linux&perline=8" />
 
 </div>
-
-<!-- Tech Stack Progress Bars -->
-<details>
-<summary><b>📊 Detailed Tech Proficiency</b></summary>
-<br/>
-
-```text
-JavaScript/TypeScript   ████████████████████░░░░░   85%
-React/Next.js           ████████████████████░░░░░   82%
-Node.js/Express         ███████████████████░░░░░░   78%
-Java/Spring Boot        ████████████████░░░░░░░░░   68%
-Rust                    ███████████░░░░░░░░░░░░░░   48%
-DevOps/Cloud            ███████████████░░░░░░░░░░   62%
-Web3/Solidity           ██████████████░░░░░░░░░░░   58%
-System Design           █████████████████░░░░░░░░   70%
-```
-
-</details>
 
 ---
 
@@ -154,7 +146,7 @@ System Design           █████████████████░�
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=EmilSaji&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
@@ -178,47 +170,6 @@ Other        38 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎯 Current Focus & Roadmap
-
-```mermaid
-mindmap
-  root((Emil's 2025 Journey))
-    Full Stack Mastery
-      Advanced React Patterns
-      Next.js 15 App Router
-      Server Components
-      Edge Functions
-    Backend Excellence
-      Microservices Architecture
-      Event-Driven Systems
-      gRPC & Protobuf
-      Message Queues
-    Cloud & DevOps
-      AWS Solutions Architect
-      Kubernetes & Helm
-      Terraform IaC
-      GitOps Workflows
-    Emerging Tech
-      Web3 & DeFi
-      Rust Systems Programming
-      AI/ML Integration
-      LangChain & RAG
-```
-
----
-
-## 🎵 Vibing To
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-> 💡 *Replace YOUR_SPOTIFY_ID with your actual Spotify user ID to enable this feature*
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -229,36 +180,6 @@ mindmap
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/EmilSaji/your-awesome-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilSaji&repo=your-awesome-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" />
-</a>
-<a href="https://github.com/EmilSaji/another-cool-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmilSaji&repo=another-cool-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" />
-</a>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>🏗️ Project Showcase Details</b></summary>
-<br/>
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🔥 **Project Alpha** | A scalable microservices platform | `Node.js` `Docker` `K8s` | 🟢 Active |
-| 🌐 **Web3 DApp** | Decentralized application for NFTs | `Solidity` `React` `Web3.js` | 🟡 In Progress |
-| 📱 **Mobile App** | Cross-platform fitness tracker | `React Native` `Firebase` | 🟢 Active |
-| 🤖 **AI Assistant** | Personal productivity chatbot | `Python` `LangChain` `OpenAI` | 🔵 Planning |
-
-</details>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -266,20 +187,6 @@ mindmap
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
 </div>
-
----
-
-## 📖 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔥 [Building Scalable Microservices with Node.js and Docker](#)
-- 🌐 [Getting Started with Web3 Development: A Complete Guide](#)
-- ⚡ [Performance Optimization Tips for React Applications](#)
-- 🔧 [Rust for JavaScript Developers: The Complete Transition Guide](#)
-- 🚀 [CI/CD Best Practices for Modern Web Applications](#)
-<!-- BLOG-POST-LIST:END -->
-
-> 💡 *Connect [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) to auto-update this section*
 
 ---
 
@@ -314,21 +221,19 @@ class EmilOffline {
 </td>
 <td width="50%">
 
-### 📚 Currently Reading
-<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415816873i/23463279.jpg" width="100" align="left" style="margin-right:15px"/>
+### 🎯 Current Focus
 
-**Designing Data-Intensive Applications**  
-*by Martin Kleppmann*
+- 🚀 Building production-ready applications
+- 📚 Continuous learning & improvement
+- 🤝 Open to collaboration opportunities
+- 💡 Sharing knowledge with the community
 
-The comprehensive guide to understanding distributed systems and building reliable, scalable applications.
+### 🌱 2025 Goals
 
-<br clear="left"/>
-
-### 🎯 2025 Goals
-- [ ] Contribute to 50+ open source projects
-- [ ] Launch a SaaS product
-- [ ] Get AWS Solutions Architect certified
-- [ ] Write 12 technical blog posts
+- Master system design patterns
+- Contribute to major open-source projects
+- Build impactful products
+- Mentor aspiring developers
 
 </td>
 </tr>
