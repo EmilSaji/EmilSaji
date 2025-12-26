@@ -244,19 +244,6 @@ class EmilOffline {
 
 </div>
 
----
-
-## 📊 This Week I Spent My Time On
-
-<!--RECENT_ACTIVITY:start-->
-```text
-💻 Development     ████████████████░░░░  80%
-📖 Learning        ████░░░░░░░░░░░░░░░░  12%
-📝 Documentation   ██░░░░░░░░░░░░░░░░░░   8%
-```
-<!--RECENT_ACTIVITY:end-->
-
----
 
 <div align="center">
 
