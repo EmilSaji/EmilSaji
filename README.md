@@ -14,9 +14,9 @@ Backend-focused Software Engineer with 2.5+ years of experience building product
 
 ## Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Tailwind CSS
+**Frontend:** React, Vue, JavaScript, TypeScript
 
-**Backend:** Node.js, Java, Spring, Rust, Express, Solidity
+**Backend:** Java, Spring, Rust, Node.js, Solidity
 
 **Databases:** MongoDB, PostgreSQL, MySQL, Redis, Firebase
 
