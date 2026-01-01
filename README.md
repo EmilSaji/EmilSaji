@@ -6,6 +6,8 @@ Backend-focused Software Engineer with 2.5+ years of experience building product
 - 🔧 Building scalable, maintainable backend systems
 - 🌐 Full-stack capable when needed
 - 📚 Always learning and exploring new technologies
+- [Portfolio](https://emilsaji-portfolio.netlify.app/)
+
 
 **Location:** Kerala, India  
 **Education:** BTech in Computer Science, Providence College of Engineering
