@@ -1,6 +1,6 @@
 # Hi, I'm Emil Saji 👋
 
-**Software Engineer | Backend Specialist**
+**Software Engineer**
 
 Backend-focused Software Engineer with 2.5+ years of experience building production-grade systems. Strong understanding of backend architecture, APIs, data flow, and system reliability. Practical frontend exposure for delivering end-to-end solutions. Focused on performance, clarity, and real-world usability
 - 🔧 Building scalable, maintainable backend systems
